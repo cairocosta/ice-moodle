@@ -6,3 +6,4 @@ https://raw.githubusercontent.com/cairocosta/ice-moodle/refs/heads/main/json/dad
 
 # produção
 https://raw.githubusercontent.com/comuneduc/jsonfile/main/json/escolas.json
+https://raw.githubusercontent.com/cairocosta/ice-moodle/refs/heads/main/json/escolas.json
