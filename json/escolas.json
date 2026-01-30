@@ -31022,6 +31022,12 @@
   {
     "uf": "SP",
     "municipio": "SÃO PAULO",
+    "escolas": "IN",
+    "regional": null
+  },
+  {
+    "uf": "SP",
+    "municipio": "SÃO PAULO",
     "escolas": "INAH JACY DE CASTRO AGUIAR",
     "regional": null
   },
@@ -31035,6 +31041,12 @@
     "uf": "SP",
     "municipio": "SÃO PAULO",
     "escolas": "ISAI LEIRNER",
+    "regional": null
+  },
+  {
+    "uf": "SP",
+    "municipio": "SÃO PAULO",
+    "escolas": "ISG",
     "regional": null
   },
   {
@@ -31215,6 +31227,12 @@
     "uf": "SP",
     "municipio": "SÃO PAULO",
     "escolas": "OLGA BENATTI",
+    "regional": null
+  },
+  {
+    "uf": "SP",
+    "municipio": "SÃO PAULO",
+    "escolas": "OPTA",
     "regional": null
   },
   {
