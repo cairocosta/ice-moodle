@@ -12008,6 +12008,12 @@
   {
     "uf": "PA",
     "municipio": "ALENQUER",
+    "escolas": "EEEFM SANTO ANTÔNIO",
+    "regional": "DRE - MONTE ALEGRE"
+  },
+  {
+    "uf": "PA",
+    "municipio": "ALENQUER",
     "escolas": "EEEM PROFA BEATRIZ DO VALE",
     "regional": "DRE - MONTE ALEGRE"
   },
@@ -12134,6 +12140,18 @@
   {
     "uf": "PA",
     "municipio": "ANANINDEUA",
+    "escolas": "EE PROF. ANTONIO GONDIM LINS",
+    "regional": "DRE - ANANINDEUA 2 "
+  },
+  {
+    "uf": "PA",
+    "municipio": "ANANINDEUA",
+    "escolas": "EE ONEIDE DE SOUZA TAVARES",
+    "regional": "DRE - ANANINDEUA 2 "
+  },
+  {
+    "uf": "PA",
+    "municipio": "ANANINDEUA",
     "escolas": "SECRETARIA DA EDUCAÇÃO/REGIONAL",
     "regional": null
   },
@@ -12190,6 +12208,12 @@
     "municipio": "BELÉM",
     "escolas": "EEEF COLONIA DO FIDELIS",
     "regional": "DRE - BELEM 11"
+  },
+  {
+    "uf": "PA",
+    "municipio": "BELÉM",
+    "escolas": "EEEF DOMINGOS ACATAUASSU NUNES",
+    "regional": "DRE - BELEM 5"
   },
   {
     "uf": "PA",
@@ -12262,6 +12286,12 @@
     "municipio": "BELÉM",
     "escolas": "EEEFM AMILCAR ALVES TUPIASSU",
     "regional": "DRE - BELEM 3"
+  },
+  {
+    "uf": "PA",
+    "municipio": "BELÉM",
+    "escolas": "EEEFM AUGUSTO OLIMPIO",
+    "regional": "DRE - BELEM 5"
   },
   {
     "uf": "PA",
@@ -12356,6 +12386,18 @@
   {
     "uf": "PA",
     "municipio": "BELÉM",
+    "escolas": "EEEFM PAULINO DE BRITO",
+    "regional": "DRE - BELEM 7"
+  },
+  {
+    "uf": "PA",
+    "municipio": "BELÉM",
+    "escolas": "EEEFM PEDRO AMAZONAS PEDROSO",
+    "regional": "DRE - BELEM 7"
+  },
+  {
+    "uf": "PA",
+    "municipio": "BELÉM",
     "escolas": "EEEFM PROF PALMIRA GABRIEL",
     "regional": "DRE - BELEM 9"
   },
@@ -12364,6 +12406,12 @@
     "municipio": "BELÉM",
     "escolas": "EEEFM PROF RENATO PINHEIRO CONDURU",
     "regional": "DRE - BELEM 1"
+  },
+  {
+    "uf": "PA",
+    "municipio": "BELÉM",
+    "escolas": "EEEFM PROF RUTH ROSITA DE NAZARÉ GONZALES",
+    "regional": "DRE - BELEM 3"
   },
   {
     "uf": "PA",
@@ -12472,6 +12520,12 @@
     "municipio": "BELÉM",
     "escolas": "EEEIFM BRIGADEIRO FONTENELLE",
     "regional": "DRE - BELEM 5"
+  },
+  {
+    "uf": "PA",
+    "municipio": "BELÉM",
+    "escolas": "EEEIF PROF ANTONIO GOMES MOREIRA JUNIOR",
+    "regional": "DRE - BELEM 1"
   },
   {
     "uf": "PA",
@@ -12645,6 +12699,12 @@
     "uf": "PA",
     "municipio": "CAMETÁ",
     "escolas": "EEEM ABRAAO SIMAO JATENE",
+    "regional": "DRE - CAMETA"
+  },
+  {
+    "uf": "PA",
+    "municipio": "CAMETÁ",
+    "escolas": "EE JULIA PASSARINHO",
     "regional": "DRE - CAMETA"
   },
   {
@@ -13280,6 +13340,12 @@
   {
     "uf": "PA",
     "municipio": "SANTARÉM",
+    "escolas": "EEEF BARÃO DO TAPAJÓS",
+    "regional": "DRE - SANTAREM"
+  },
+  {
+    "uf": "PA",
+    "municipio": "SANTARÉM",
     "escolas": "EEEF GONCALVES DIAS",
     "regional": "DRE - SANTAREM"
   },
@@ -13293,6 +13359,18 @@
     "uf": "PA",
     "municipio": "SANTARÉM",
     "escolas": "EEEF RICHARD HENNINGTON",
+    "regional": "DRE - SANTAREM"
+  },
+  {
+    "uf": "PA",
+    "municipio": "SANTARÉM",
+    "escolas": "EEEFM FELISBELO JAGUAR SUSSUARANA",
+    "regional": "DRE - SANTAREM"
+  },
+  {
+    "uf": "PA",
+    "municipio": "SANTARÉM",
+    "escolas": "EEEFM NOSSA SENHORA APARECIDA",
     "regional": "DRE - SANTAREM"
   },
   {
