@@ -14438,6 +14438,12 @@
   {
     "uf": "PB",
     "municipio": "JOÃO PESSOA",
+    "escolas": "EMAI ANA CRISTINA ROLIM MACHADO",
+    "regional": null
+  },
+  {
+    "uf": "PB",
+    "municipio": "JOÃO PESSOA",
     "escolas": "EMAI ANALICE CALDAS",
     "regional": null
   },
@@ -14541,6 +14547,12 @@
     "uf": "PB",
     "municipio": "JOÃO PESSOA",
     "escolas": "EMAI OSCAR DE CASTRO",
+    "regional": null
+  },
+  {
+    "uf": "PB",
+    "municipio": "JOÃO PESSOA",
+    "escolas": "EMAI PADRE BARTOLOMEU DE GUSMÃO",
     "regional": null
   },
   {
